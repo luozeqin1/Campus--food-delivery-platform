@@ -8,7 +8,7 @@
 
 **② 项目最终名称**
 
-     中文：校园智能外卖配送服务平台
+      中文：校园智能外卖配送服务平台
 
       英文：Campus Smart Food Delivery Service Platform
 
